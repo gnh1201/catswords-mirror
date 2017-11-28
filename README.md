@@ -1,2 +1,5 @@
 # catswords-mirror
-Mirrored data for Catswords Community
+Mirrored data from Catswords Community
+
+## website
+- https://exts.kr
